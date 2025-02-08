@@ -1,0 +1,9 @@
+# Ignore dependencies and build files
+DragAndDrop/node_modules/
+DragAndDrop/dist/
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment files (if any)
+DragAndDrop/.env
